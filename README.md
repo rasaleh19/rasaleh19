@@ -2,7 +2,8 @@
 
 ## About Me 
 
-Hi there! I'm <b>Abu Sani Faysal</b>. I'm a passionate Software Developer with a strong focus on <b>Full Stack Development</b>. I love sharing what I know teaching. If you want to learn more about what I do, you can follow me. Outside of coding, I enjoy <b>Articles</b>.
+Hi there! I'm <b>Dr. Rakib Ahmed Saleh</b>. I'm a passionate researcher and Software Developer with a strong focus on <b>Machine Learning, Data Analytics, and Full Stack Development</b>. I serve as a Senior System Analyst at BUET, with over 16 years of professional experience, specializing in system design, process automation, and institutional digital transformation.
+. If you want to learn more about what I do, you can follow me. Outside of coding, I enjoy <b>Articles</b>.
 
 
 <h3>When I code, I rely on</h3>
@@ -32,9 +33,9 @@ Feel free to reach out to me or connect with me on  [Linkedin](https://www.linke
 
 You can also find me on:
 
-- **Email**: faysal@programming-hero.com
-- **Linkedin**: [Click Here](https://www.linkedin.com/in/abufaysal002/)
-- **Facebook** : [Click Here](https://www.facebook.com/profile.php?id=100064072804665)
+- **Email**: rasaleh19@gmail.com
+- **Linkedin**: [Click Here](https://www.linkedin.com/in/rakib-ahmed-saleh-phd-a03a4115)
+
 
 
 Let's connect and discuss exciting opportunities!
